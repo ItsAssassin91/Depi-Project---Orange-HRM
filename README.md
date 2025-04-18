@@ -11,11 +11,11 @@ Welcome to our comprehensive software testing project on **OrangeHRM**. This pro
 
 Each team member was responsible for testing one of the following key modules:
 
-- **Admin**
-- **Leave**
-- **Recruitment**
-- **Time**
-- **Directory**
+- **Admin - Amr Essam**
+- **Leave - Abdullah Essam**
+- **Recruitment - Nabil NasserEldin**
+- **Time - Malek**
+- **Directory - Moussa**
 
 ---
 
