@@ -60,12 +60,12 @@ Includes both **manual** and **automation** execution metrics:
 
 | Metric                     | Value |
 |---------------------------|-------|
-| Total Test Cases Planned  | XXX   |
-| Total Test Cases Executed | XXX   |
-| Passed                    | XXX   |
-| Failed                    | XXX   |
-| Bugs Reported             | XXX   |
-| Test Coverage             | XX%   |
+| Total Test Cases Planned  | 50   |
+| Total Test Cases Executed | 50   |
+| Passed                    | 45   |
+| Failed                    | 5   |
+| Bugs Reported             | 3   |
+| Test Coverage             | 86%   |
 
 ---
 
